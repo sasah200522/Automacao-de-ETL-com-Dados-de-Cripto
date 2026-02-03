@@ -4,7 +4,7 @@ Este projeto consiste em uma solução de automação para coleta e processament
 
 ## 📂 Estrutura de Arquivos
 
-* **`Project - Automating Crypto Website API with Python.ipynb`**: O projeto completo. Contém todo o desenvolvimento do código, lógica de extração e automação.
+* **`Project - Automating Crypto Website API Pull Using Python.ipynb`**: O projeto completo. Contém todo o desenvolvimento do código, lógica de extração e automação.
 * **`API.csv`**: O arquivo finalizado. Representa a base de dados gerada após a execução e processamento do pipeline de ETL.
 
 ## 🚀 Conclusão e Habilidades Aplicadas
